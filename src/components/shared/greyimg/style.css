@@ -1,0 +1,8 @@
+.gray{
+    width: 200px;
+    filter: grayscale(100%);
+}
+
+.clr{
+    width: 300;
+}
